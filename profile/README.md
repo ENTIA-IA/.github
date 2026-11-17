@@ -35,6 +35,11 @@ Identity assertion → Source reference → Verification → Structured data →
 
 Current corpus counts, geographical coverage, infrastructure, certification status and live functionality should be taken only from the relevant dated, verifiable ENTIA product evidence. Historical claims from previous versions of this profile must not be interpreted as current metrics.
 
+### Research and technical publications
+
+- [Fernando Vilches — ENTIA Research catalogue](./RESEARCH.md): public working papers, source-linked technical notes, and studies in progress, with explicit evidence and peer-review status.
+- [Five-Layer Framework (working paper, DOI)](https://entia.systems/press/research/five-layer-framework)
+
 ### Documentation
 
 - [Developer documentation](https://entia.systems/developers)
